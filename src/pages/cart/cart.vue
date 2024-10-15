@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <view class="index">index</view>
+  <view class="cart">cart</view>
 </template>
 
 <style lang="scss">

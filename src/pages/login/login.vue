@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <view class="index">index</view>
+  <view class="login">login</view>
 </template>
 
 <style lang="scss">
