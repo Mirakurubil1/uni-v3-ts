@@ -4,7 +4,7 @@
     唱跳rap 篮球
 </div>
 </template>
-<script lang="ts">
+<script lang="ts" setup>
 const { safeAreaInsets } = uni.getSystemInfoSync()
 console.log(safeAreaInsets);
 
